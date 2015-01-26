@@ -1,0 +1,1 @@
+chefspec_bug 'resource'
